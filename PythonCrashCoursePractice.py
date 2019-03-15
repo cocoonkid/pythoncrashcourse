@@ -885,5 +885,19 @@ class Car():
 #
 # my_tesla.battery.get_range()
 
-
+# def add_nmumbers():
+#
+#     while True:
+#         x = input("Please enter a number: \n")
+#         y = input("Please enter a 2nd number: \n")
+#         try:
+#             result = int(x) + int(y)
+#         except ValueError:
+#             msg = "Sorry these MUST be numbers!"
+#             print(msg)
+#             continue
+#         else:
+#             print(result)
+#
+# add_nmumbers()
 
